@@ -1,3 +1,7 @@
 # E-Recruiment - Java Web-based Project
-This is a web project of 5 members
-The project is used for managing the Online Recruitment Process
+# Name of members:
+* Lê Đăng Khoa  - <a href="https://github.com/khoaLe12">GitHub</a>
+* Nguyễn Đức Toàn - <a href="https://github.com/Toannd832">GitHub</a>
+* Lồ Quang Thắng  - <a href="https://github.com/Quang-Thang">GitHub</a>
+* Trần Võ Hoàng Trọng Ân  - <a href="https://github.com/JTRerer">GitHub</a>
+* Lê Quang Phú -  <a href="https://github.com/Minstreal1">GitHub</a>
