@@ -12,9 +12,8 @@ This is a group project of the subject SWP391 of the 5th term at FPT University.
 **Front-end:** HTML/CSS, JavaScript
 
 **Back-end:** Spring Web MVC, Spring Security, Hibernate and JPA, Criteria query API, Google Authentication(OAuth2), SQL Server
+## Overall
 
-##Overall
+### Recruitment Process
 
-###Recruitment Process
-
-###Roles and features
+### Roles and features
