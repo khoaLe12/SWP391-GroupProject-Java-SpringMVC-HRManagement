@@ -18,11 +18,11 @@ This web application is developed for 5 user roles including Department, Candida
 ## The Recruitment Process: 
 * Post job vacancies -> Applying Job -> Evaluating CV(Pass/Fail) -> Schedule an interview -> Make reports of candidates -> Final Decision(Pass/Fail)
 
-If CV fail, candidate will fail the job that he/she applied. If CV passed, candidate will get a interviewer schedule. 
+_If CV fail, candidate will fail the job that he/she applied. If CV passed, candidate will get a interviewer schedule. 
 
-Candidate or interviewer can reject their schedule but they have to write reasons for that rejection. 
+_Candidate or interviewer can reject their schedule but they have to write reasons for that rejection. 
 
-After each Interview schedule, interviewers need to write reports for each candidates. HR Manager will base on that to give a final decision.
+_After each Interview schedule, interviewers need to write reports for each candidates. HR Manager will base on that to give a final decision.
 
 ## Business Rules:
 The maximum number of candidates of a interview schedule is 10.
