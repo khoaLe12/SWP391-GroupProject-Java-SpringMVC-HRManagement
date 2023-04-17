@@ -105,6 +105,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
                 .csrf().disable();
     }
 
+    //For Login Form
     @Bean
     public BCryptPasswordEncoder passwordEncoder() {
         return new BCryptPasswordEncoder();
@@ -128,6 +129,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
         auth.authenticationProvider(authenticationProvider());
     }
 
+    //For login google
     @Bean
     public ClientRegistrationRepository clientRegistrationRepository() {
         List<ClientRegistration> registrations = Arrays.asList(GoogleClientRegistration.candidateClientRegistration(), GoogleClientRegistration.employeeClientRegistration());
