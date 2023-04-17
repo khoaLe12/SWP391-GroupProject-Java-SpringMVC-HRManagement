@@ -34,4 +34,4 @@ After each Interview schedule, interviewers need to write reports for each candi
 ## File Structure
 We build this web app following 3 layer achirtechture 
 
-![File Structure](https://github.com/khoaLe12/java-swp391-HRManagement/blob/main/Pictures/Screenshot%202023-04-17%20163330.png)
+![File Structure](https://github.com/khoaLe12/java-swp391-HRManagement/blob/main/Pictures/Screenshot%202023-04-17%20203736.png)
