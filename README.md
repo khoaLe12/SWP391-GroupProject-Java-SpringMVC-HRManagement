@@ -24,4 +24,5 @@ This web application is developed for 5 user roles to achieve the following recr
 * HR Manager: View job applications, Make a final decisions(based on CV,reports)
 
 ### File Structure
+We build this web app following 3 layer achirtechture 
 ![File Structure](https://github.com/khoaLe12/java-swp391-HRManagement/blob/main/Pictures/Screenshot%202023-04-17%20163330.png)
