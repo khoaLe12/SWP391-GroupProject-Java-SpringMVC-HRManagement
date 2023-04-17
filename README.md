@@ -12,16 +12,26 @@ This is a group project of the subject SWP391 of the 5th term at FPT University.
 **Front-end:** HTML/CSS, JavaScript
 
 **Back-end:** Spring Web MVC, Spring Security, Hibernate and JPA, Criteria query API, Google Authentication(OAuth2), SQL Server
-## Description
-This web application is developed for 5 user roles to achieve the following recruitment process: 
-* Post job vacancies > Applying Job > Evaluating CV(Pass/Fail) > Schedule an interview > Make reports of candidates > Final Decision(Pass/Fail)
+# Description
+This web application is developed for 5 user roles including Department, Candidate, HR Employee, Interviewer, HR Manager. Role department can login using email and password, the rest of roles can login with google as provider and there are 2 sections of login google (1 for candidates, 1 for employees). If candidate is a new account, system will automatically add new account to database.
 
-### Roles and features
+## The Recruitment Process: 
+* Post job vacancies -> Applying Job -> Evaluating CV(Pass/Fail) -> Schedule an interview -> Make reports of candidates -> Final Decision(Pass/Fail)
+
+If CV fail, candidate will fail the job that he/she applied. If CV passed, candidate will get a interviewer schedule. 
+
+Candidate or interviewer can reject their schedule but they have to write reasons for that rejection. 
+
+After each Interview schedule, interviewers need to write reports for each candidates. HR Manager will base on that to give a final decision.
+
+## Roles and features
 * Department: Manage job postings (View/Create/Delete)
 * Candidate: View Job Postings/Post Details, Apply job, View job applications, View schedules, Accepct/Deny interview schedule, ...
 * HR Employee: Manage job postings (View/Accept,Deny/End), Manage job application(Evaluate CV, schedule,...), Manage interview schedule(Create,Start,...)
-* Employee: Manage schedule (Accepct,Deny,End), Manage Report(Write/Edit Reports)
+* Interviewer: Manage schedule (Accepct,Deny,End), Manage Report(Write/Edit Reports)
 * HR Manager: View job applications, Make a final decisions(based on CV,reports)
 
-### File Structure
+## File Structure
+We build this web app following 3 layer achirtechture 
 
+![File Structure](https://github.com/khoaLe12/java-swp391-HRManagement/blob/main/Pictures/Screenshot%202023-04-17%20163330.png)
