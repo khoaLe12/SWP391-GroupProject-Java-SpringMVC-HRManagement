@@ -12,8 +12,6 @@ This is a group project of the subject SWP391 of the 5th term at FPT University.
 **Front-end:** HTML/CSS, JavaScript
 
 **Back-end:** Spring Web MVC, Spring Security, Hibernate and JPA, Criteria query API, Google Authentication(OAuth2), SQL Server
-## Overall
-
-### Recruitment Process
-
+## Description
+This web application is developed for 5 user roles to achieve the following recruitment process: Post job vacancies > Applying Job > Evaluating CV(Pass/Fail) > Schedule an interview > Make reports of candidates > Final Decision(Pass/Fail)
 ### Roles and features
