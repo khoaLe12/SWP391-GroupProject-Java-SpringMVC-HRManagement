@@ -7,11 +7,11 @@ This is a group project of the subject SWP391 of the 5th term at FPT University.
 * Trần Võ Hoàng Trọng Ân  - <a href="https://github.com/JTRerer">GitHub</a>
 * Lê Quang Phú -  <a href="https://github.com/Minstreal1">GitHub</a>
 ## Tech Stack
-**Build tool:** Maven
+* Build tool: Maven
 
-**Front-end:** HTML/CSS, JavaScript
+* Front-end: HTML/CSS, JavaScript
 
-**Back-end:** Spring Web MVC, Spring Security, Hibernate and JPA, Criteria query API, Google Authentication(OAuth2), SQL Server
+* Back-end: Spring Web MVC, Spring Security, Hibernate and JPA, Criteria query API, Google Authentication(OAuth2), SQL Server
 # Description
 This web application is developed for 5 user roles including Department, Candidate, HR Employee, Interviewer, HR Manager. Role department can login using email and password, the rest of roles can login with google as provider and there are 2 sections of login google (1 for candidates, 1 for employees). If candidate is a new account, system will automatically add new account to database.
 
