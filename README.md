@@ -44,10 +44,11 @@ After each Interview schedule, interviewers need to write reports for each candi
 - Follow this path of project: `WebProject/src/main/java/com/codeweb/configs/HibernateConfig.java` to set up new DriverClassName, url and Dialect for connection
 ### How to login
 - For department: enter email and password
-|Email|Password|Department
-|Marketing@gmail.com|123|N'MARKETING
-|ITech@gmail.com|123|Information Technology
-|Ketoan@gmail.com|123|Ke Toan
+| Email | Password | Department |
+| ----- | -------- | ---------- |
+| Marketing@gmail.com | 123 | MARKETING |
+| ITech@gmail.com | 123 | Information Technology |
+| Ketoan@gmail.com | 123 | Ke Toan |
 
 ## File Structure
 We build this web app following 3 layer achirtechture 
