@@ -1,9 +1,6 @@
 ﻿USE master
 GO
 
-DROP DATABASE HRManagement
-GO
-
 CREATE DATABASE HRManagement
 GO
 
