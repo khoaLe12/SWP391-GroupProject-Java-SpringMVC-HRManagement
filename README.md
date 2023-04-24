@@ -33,6 +33,15 @@ After each Interview schedule, interviewers need to write reports for each candi
 * Interviewer: Manage schedule (Accepct,Deny,End), Manage Report(Write/Edit Reports)
 * HR Manager: View job applications, Make a final decisions(based on CV,reports)
 
+## 🏃‍♂️ How to run project
+- To run this project, you should use Netbeans IDE (version 8.2 or higher) to run. You need to find the way to config this project before using.
+- You must install maven `https://phoenixnap.com/kb/install-maven-windows`
+- After open project, you should build project to download all dependecies
+- At `src\utils\DBUtils.java` file, you need to change this code into your password to use database.
+- Set up database by running the `freelanceJob123.sql` file in `database` folder.
+- Finally, let's start to experience the website.
+
+
 ## File Structure
 We build this web app following 3 layer achirtechture 
 
