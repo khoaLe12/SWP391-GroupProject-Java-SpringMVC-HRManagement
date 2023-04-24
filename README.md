@@ -50,6 +50,8 @@ After each Interview schedule, interviewers need to write reports for each candi
 | Marketing@gmail.com | 123 | MARKETING |
 | ITech@gmail.com | 123 | Information Technology |
 | Ketoan@gmail.com | 123 | Ke Toan |
+- For Canidates: use email (if new, system will auto register your account)
+- For Employee: use email (you need add your email from database before login)
 
 ## File Structure
 We build this web app following 3 layer achirtechture 
