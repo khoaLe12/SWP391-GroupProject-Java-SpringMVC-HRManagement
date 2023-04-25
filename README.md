@@ -43,7 +43,7 @@ After each Interview schedule, interviewers need to write reports for each candi
 - You must install Tomact server `https://tomcat.apache.org/` and set server port to 8080
 - After open project, you should build project to install all dependecies
 - Set up database by running the `Database.sql` file (Note that MS SQL Server is used for this project)
-- Follow this path of project: `WebProject/src/main/java/com/codeweb/configs/HibernateConfig.java` to change username and password to use database (Note that port 1433 is used for connection)
+- Follow this path of project: `WebProject/src/main/java/com/codeweb/configs/HibernateConfig.java` to change username and password for connecting to database (Note that port 1433 is used for connection)
 #### If you use other DBMS, you need to
 - Install suitable driver for the DBMS from `https://mvnrepository.com/` by adding dependency to file pom.xml and build again project
 - Follow this path of project: `WebProject/src/main/java/com/codeweb/configs/HibernateConfig.java` to set up new DriverClassName, url and Dialect for connection
