@@ -57,7 +57,6 @@ After each Interview schedule, interviewers need to write reports for each candi
 | Ketoan@gmail.com | 123 | Ke Toan |
 - For Canidates: use email (if new, system will auto register your account)
 - For Employee: use email (you need add your email from database before login)
-Note that: You only need to insert email and role columns, for role
 
 ## File Structure
 We build this web app following 3 layer achirtechture 
