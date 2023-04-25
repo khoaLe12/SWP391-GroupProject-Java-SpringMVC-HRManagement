@@ -17,9 +17,7 @@ This is a group project of the subject SWP391 of the 5th term at FPT University.
 # Description
 This web application is developed for 5 user roles including Department, Candidate, HR Employee, Interviewer, HR Manager. Role department can login using email and password, the rest of roles can login with google as provider and there are 2 sections of login google (1 for candidates, 1 for employees). If candidate is a new account, system will automatically add new account to database.
 
-Departments can create job postings, but must be evaluated by HR Employee before it is officially posted to the public.
-
-Candidate can apply many jobs and multiple times for a job
+Each role has its own specific functions, you can find it on section "Roles and features"
 
 ## The Recruitment Process: 
 This is a brief description of the recruitment process
@@ -30,7 +28,7 @@ If CV fail, candidate will fail the job that he/she applied. If CV passed, candi
 
 Candidate or interviewer can reject their schedule but they have to write reasons for that rejection. 
 
-After each Interview schedule, interviewers need to write reports for each candidates. HR Manager will base on that to give a final decision.
+After each Interview schedule, interviewers need to write reports for each candidate. HR Manager will base on that to give a final decision.
 
 ## Roles and features
 * Department: Manage job postings (View/Create/Delete)
