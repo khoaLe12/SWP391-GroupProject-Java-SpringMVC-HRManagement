@@ -22,7 +22,9 @@ Departments can create job postings, but must be evaluated by HR Employee before
 Candidate can apply many jobs and multiple times for a job
 
 ## The Recruitment Process: 
-* Post job vacancies -> Applying Job -> Evaluating CV(Pass/Fail) -> Schedule an interview -> Make reports of candidates -> Final Decision(Pass/Fail)
+This is a brief description of the recruitment process
+
+* Post job vacancies -> Job Application -> CV Evaluation(Pass/Fail) -> Interview -> Reports after interview -> Final Decision(Pass/Fail)
 
 If CV fail, candidate will fail the job that he/she applied. If CV passed, candidate will get a interviewer schedule. 
 
